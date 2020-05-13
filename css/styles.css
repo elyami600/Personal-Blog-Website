@@ -1,8 +1,6 @@
 @import "nav.css";
-@import "footer.css";
 @import "header.css";
-
-
+@import "footer.css";
 .container {
     display: grid;
     height: 100vh;
@@ -16,15 +14,15 @@
     ;
 }
 #box-one {
-    background:url(Images/music.jpg);
+    background:url(../Images/music.jpg);
     background-size: cover;
 }
 #box-two {
-    background:url(Images/samana.jpeg);
+    background:url(../Images/samana.jpeg);
     background-size: cover;
 }
 #box-three {
-    background:url(Images/newYork.jpg);
+    background:url(../Images/newYork.jpg);
     background-size: cover;
 }
 
