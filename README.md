@@ -1,3 +1,3 @@
-#Front End Web Development Nanodegree Project
+# Front End Web Development Nanodegree Project
 
-##Personal Blog Website
+## giPersonal Blog Website
