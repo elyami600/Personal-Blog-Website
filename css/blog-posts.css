@@ -2,6 +2,7 @@
 @import "header.css";
 @import "footer.css";
 
+
 .container {
     display: grid;
     height: 100vh;
@@ -53,8 +54,24 @@ main {
     background-color: rgba(0, 0, 0, 0.5);
     padding-bottom: 25px;
     text-align: center;
-    color: white;
+    color:black;
 }
+.section h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+    font-weight: bold;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: blue;
+    text-shadow: 3px 3px 5px goldenrod;
+    text-transform: capitalize;
+}
+.section p {
+    letter-spacing: 1px;
+    line-height: 1.6em;
+   
+}
+
 
 blockquote {
     background: rgb(56, 44, 61);  
